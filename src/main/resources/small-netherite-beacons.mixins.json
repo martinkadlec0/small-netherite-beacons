@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "harou.small_netherite_beacons.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"BeaconBlockEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
