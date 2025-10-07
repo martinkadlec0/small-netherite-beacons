@@ -3,15 +3,15 @@
 	"id": "small-netherite-beacons",
 	"version": "${version}",
 	"name": "Small Netherite Beacons",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Get full beacon effects from a small beacon using a Netherite block.",
 	"authors": [
-		"Me!"
+		"BSHarou"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/small-netherite-beacons/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -24,7 +24,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",
-		"minecraft": "1.21.9",
+		"minecraft": "1.21.10",
 		"java": ">=21",
 		"fabric-api": "*"
 	},
